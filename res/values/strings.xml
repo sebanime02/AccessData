@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AccessData</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="txt">Presione el boton para guardar el Dato</string>
+	<string name="btn">Guardar</string>
+	<string name="edit">Dato</string>
+</resources>
